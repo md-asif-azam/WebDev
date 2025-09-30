@@ -1,0 +1,21 @@
+p {
+    color: green;
+}
+
+.abc {
+    font-size: 13px;
+}
+
+.up{
+    color: blue;
+    border: 2px solid black;
+}
+
+.down {
+    color: pink;
+    border: 2px solid red;
+}
+
+#button3 {
+    color: black;
+}
